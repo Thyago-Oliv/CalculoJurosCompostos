@@ -1,0 +1,1 @@
+Olá! Esse projeto te ajudará a calcular juros compostos utilizando a linguagem C!
